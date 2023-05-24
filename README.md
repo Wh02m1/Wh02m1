@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3 align="center" style="color:red;">A passionate red teamer </h3>
+<h3 align="center" style="color:red;">I'm A passionate red teamer who loves hacking, testing, and conquering CTF challenges. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wh02m1&label=Profile%20views&color=0e75b6&style=flat" alt="Wh02m1" /> </p>
 
