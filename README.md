@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<h3 align="center" style="color:red; text-shadow: 0px 0px 8px #FF0000;">I'm a passionate red teamer who loves hacking, testing, and conquering CTF challenges.</h3>
+<h3 align="center" style="color:red;">
+  <span style="text-shadow: 0px 0px 8px #FF0000;">I'm a passionate red teamer who loves hacking, testing, and conquering CTF challenges.</span>
+</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wh02m1&label=Profile%20views&color=0e75b6&style=flat" alt="Wh02m1" /> </p>
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=Wh02m1" alt="wh02m1" /></a> </p>
