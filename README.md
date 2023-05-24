@@ -10,7 +10,6 @@
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=Wh02m1" alt="wh02m1" /></a> </p>
 
-- 🌱 I’m currently learning **Pentesting**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Wh02m1](https://github.com/Wh02m1)
 
