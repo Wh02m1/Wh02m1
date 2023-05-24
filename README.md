@@ -2,6 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there!;My+name+is+Abdelrahman;Welcome+to+my+Profile" alt="Typing SVG" /></a>
 </h1>
 
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 ### I'm a passionate red teamer who loves hacking, testing, and conquering CTF challenges
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wh02m1&label=Profile%20views&color=0e75b6&style=flat" alt="Wh02m1" /> </p>
