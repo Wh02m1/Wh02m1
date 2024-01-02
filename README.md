@@ -3,7 +3,7 @@
 </h1>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🧑‍💻A passionate red teamer who loves hacking, testing, and conquering CTF challenges
+- 🧑‍💻A passionate Bug Bounty Hunter who loves hacking, testing, and conquering CTF challenges
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wh02m1&label=Profile%20views&color=0e75b6&style=flat" alt="Wh02m1" /> </p>
